@@ -1,7 +1,6 @@
 <div align="center">
   <h4>Hi there 👋 </h4>
-  <h3>This Is, Arya Sah</h3>
-  <hr>
+  <h2>This Is, <b>Arya Sah</b></h2>
 
 CSE SOPHOMORE at National Institute of Technology, Durgapur, India.<br/><br/> 3 ⭐ Competitive Programmer at CodeChef <br/> <br/>Full Stack Web Developer at Centre for Cognitive Activities, NIT Durgapur.
 <!-- <br/><br/>
