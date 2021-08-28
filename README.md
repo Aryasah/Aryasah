@@ -1,14 +1,18 @@
+
 <div align="center">
   <h4>Hi there 👋 </h4>
   <h2>This Is, <b>Arya Sah</b></h2>
+
 
 CSE SOPHOMORE at National Institute of Technology, Durgapur, India.<br/><br/> 3 ⭐ Competitive Programmer at CodeChef <br/> <br/>Full Stack Web Developer at Centre for Cognitive Activities, NIT Durgapur.
 <!-- <br/><br/>
 ![](https://visitor-badge.laobi.icu/badge?page_id=Aryasah.Aryasah) -->
 </div>
 
-<br/><br/><br/>
-
+<br/><br/>
+![36312-developer-wallpaper-top-free-developer-background](https://user-images.githubusercontent.com/75942764/131230916-6132b62e-5244-4f29-8aac-e1ffe7e6c697.jpg)
+<br/>
+<br/><br/>
 I love learning new technologies and . Recently enjoying problem solving  and competetive  programming as well.
 
 
