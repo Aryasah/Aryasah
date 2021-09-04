@@ -4,7 +4,7 @@
   <h2>This Is, <b>Arya Sah</b></h2>
 
 
-CSE SOPHOMORE at National Institute of Technology, Durgapur, India.<br/><br/> 3 ⭐ Competitive Programmer at CodeChef <br/> <br/>Full Stack Web Developer at Centre for Cognitive Activities, NIT Durgapur.
+CSE SOPHOMORE at National Institute of Technology, Durgapur, India.<br/><br/> Competitive Programmer  <br/> <br/>Full Stack Web Developer at Centre for Cognitive Activities, NIT Durgapur.
 <!-- <br/><br/>
 ![](https://visitor-badge.laobi.icu/badge?page_id=Aryasah.Aryasah) -->
 </div>
