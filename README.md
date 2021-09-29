@@ -21,7 +21,7 @@ const Arya = {
     technologies: {
         frontEnd: {
             js: ["Reactjs", "Redux"],
-            css: ["material-ui", "css3", "scss", "bootstrap"]
+            css: ["material-ui", "css3", "scss", "bootstrap","ant-design"]
         },
         backEnd: {
             js: ["node", "express"],
