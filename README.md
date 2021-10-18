@@ -29,15 +29,15 @@ const Arya = {
         },
 
         databases: ["sqlite"],
-        misc: ["firebase", "open-cv", "netlify" , "heroku" , "git" ,"git-hub" ,"vs-code" ,"sublime"]
+        misc: ["firebase", "open-cv", "netlify" , "heroku" , "git" ,"github" ,"vs-code" ,"sublime","linux"]
     },
-    currentLearning: "Node.JS/React.Js/Electron.js",
+    currentLearning: "Node.JS/Express/Socket.io",
     currentProject: "I’m currently working on CCA Website",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+<a href="https://www.linkedin.com/in/arya-sah-5100121b3/"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"></a> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 
 
