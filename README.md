@@ -4,6 +4,8 @@
 </em></h3>
 <p><em>Full Stack Web Developer at <a href="http://www.ccanitd.in">Centre for Cognitive Activities, NIT Durgapur.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
+<p><em>Competitive Programmer  <a href="https://www.codechef.com/users/aryasah">Codechef'1730</a><img src="https://media.giphy.com/media/JAfawQULHvbGPwUpOh/giphy.gif" width="30"> 
+</em></p>
 
 <a href="https://www.instagram.com/aryasah30/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@aryasah30-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:aryasah30@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aryasah30@gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -17,7 +19,7 @@
 const Arya = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C Programming", "Python", "C++"],
-    askMeAbout: ["web dev", "tech", "competetive programming", "javascript"],
+    askMeAbout: ["web dev", "tech", "competitive programming", "javascript"],
     technologies: {
         frontEnd: {
             js: ["Reactjs", "Redux"],
@@ -27,12 +29,11 @@ const Arya = {
             js: ["node", "express"],
             python: ["django"]
         },
-
         databases: ["sqlite"],
         misc: ["firebase", "open-cv", "netlify" , "heroku" , "git" ,"github" ,"vs-code" ,"sublime","linux"]
     },
-    currentLearning: "Node.JS/Express/Socket.io",
-    currentProject: "I’m currently working on CCA Website",
+    currentLearning: "React-Native/Node.JS/Express/Socket.io",
+    currentProject: "I’m currently working on IIC Website",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
