@@ -19,7 +19,7 @@
 const Arya = {
     pronouns: "He" | "Him",
     code: ["Javascript", "C Programming", "Python", "C++"],
-    askMeAbout: ["web dev", "tech", "competitive programming", "javascript"],
+    askMeAbout: ["web dev", "tech", "competitive programming", "javascript","app dev"],
     technologies: {
         frontEnd: {
             js: ["Reactjs", "Redux"],
@@ -29,11 +29,14 @@ const Arya = {
             js: ["node", "express"],
             python: ["django"]
         },
+        app: {
+            "react-native"
+        }
         databases: ["sqlite"],
         misc: ["firebase", "open-cv", "netlify" , "heroku" , "git" ,"github" ,"vs-code" ,"sublime","linux"]
     },
     currentLearning: "React-Native/Node.JS/Express/Socket.io",
-    currentProject: "I’m currently working on IIC Website",
+    currentProject: "I’m currently working on my internship project",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
