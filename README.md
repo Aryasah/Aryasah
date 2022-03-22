@@ -4,7 +4,7 @@
 </em></h3>
 <p><em>Full Stack Web Developer at <a href="http://www.ccanitd.in">Centre for Cognitive Activities, NIT Durgapur.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-<p><em>Competitive Programmer  <a href="https://www.codechef.com/users/aryasah">Codechef'1730</a><img src="https://media.giphy.com/media/JAfawQULHvbGPwUpOh/giphy.gif" width="30"> 
+<p><em>Competitive Programmer  <a href="https://www.codechef.com/users/aryasah30">Codechef'1730</a><img src="https://media.giphy.com/media/JAfawQULHvbGPwUpOh/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://www.instagram.com/aryasah30/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@aryasah30-blue?style=flat-square&logo=instagram"></a>
