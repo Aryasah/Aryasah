@@ -31,9 +31,9 @@ const Arya = {
         },
         app: {
             "react-native"
-        }
-        databases: ["sqlite"],
-        misc: ["firebase", "open-cv", "netlify" , "heroku" , "git" ,"github" ,"vs-code" ,"sublime","linux"]
+        },
+        databases: ["sqlite","mongodb","postgress"],
+        misc: ["firebase", "open-cv", "netlify" , "heroku" , "git" ,"github" ,"gitlab","vs-code" ,"sublime","linux"]
     },
     currentLearning: "React-Native/Node.JS/Express/Socket.io",
     currentProject: "I’m currently working on my internship project",
